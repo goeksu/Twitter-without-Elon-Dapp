@@ -1,3 +1,0 @@
-/*! crc32.js (C) 2014-present SheetJS -- http://sheetjs.com */
-
-/*! https://mths.be/punycode v1.3.2 by @mathias */
