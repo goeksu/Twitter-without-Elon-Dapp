@@ -6,12 +6,12 @@ Web3 based Twitter clone. React app connected to Smart Contract.
 
 To get started with the Web3 Twitter Clone, you will need to install the necessary software.
 
-##Prerequisites##
+##Prerequisites
 ```
 Node.js (https://nodejs.org/)
 ```
 
-###Installation###
+###Installation
 Clone the repository:
 
 ```
