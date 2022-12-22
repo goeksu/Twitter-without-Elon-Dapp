@@ -2,7 +2,7 @@
 Web3 based Twitter clone. React app connected to Smart Contract. 
 ![Screen Shot 2022-12-21 at 18 53 15](https://user-images.githubusercontent.com/25721443/208947241-c54fbd38-dd4e-4cc2-b662-81a8e2475250.png)
 
-
+<br><br>
 
 To get started with the Web3 Twitter Clone, you will need to install the necessary software.
 
@@ -30,9 +30,10 @@ Start the development server:
 npm start
 
 ```
-The Web3 Twitter Clone should now be up and running on your local machine.
+The Web3 Twitter Clone should now be up and running on your local machine or just go there https://twoedapp.goksu.in
 
-
+<br>
+<br>
 Everything started here lol:
 
 
@@ -40,4 +41,4 @@ Everything started here lol:
 
 
 
-http://twoedapp.goksu.in
+
