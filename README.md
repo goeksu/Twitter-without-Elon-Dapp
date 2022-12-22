@@ -6,24 +6,32 @@ Web3 based Twitter clone. React app connected to Smart Contract.
 
 To get started with the Web3 Twitter Clone, you will need to install the necessary software.
 
-*Prerequisites*
-
+##Prerequisites##
+```
 Node.js (https://nodejs.org/)
-Installation
+```
+
+###Installation###
 Clone the repository:
-Copy code
+
+```
 git clone https://github.com/goeksu/twitter-without-elon-dapp.git
+```
 
 Install dependencies:
-Copy code
-cd web3-twitter-clone
+
+```
+cd twitter-without-elon-dapp
 npm install
+```
+
 Start the development server:
-Copy code
+```
 npm start
+
+```
 The Web3 Twitter Clone should now be up and running on your local machine.
 
-*Deployment*
 
 Everything started here lol:
 
